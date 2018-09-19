@@ -1,1 +1,7 @@
 /vtk
+*.tgz
+/lectures
+/Data
+/csv
+*.csv
+.ipynb_checkpoints/
